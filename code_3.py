@@ -1,27 +1,17 @@
+function main() {
 
-def generate_random_data():
-import random
+        console.log("Random Number: " + item);
+}
+        data.push(Math.floor(Math.random() * 100) + 1);
+    const data = generateRandomData();
 
+    for (let i = 0; i < 10; i++) {
+}
+    data.forEach(item => {
+function generateRandomData() {
+    return data;
+main();
 
-if __name__ == "__main__":
-    data = generate_random_data()
-def main():
-    data = [random.randint(1, 100) for _ in range(10)]
-        print(f"Random Number: {item}")
-    main()
-
-    return data
-    for item in data:    return data
-    data = [random.randint(1, 100) for _ in range(10)]
-    for item in data:
-def main():
-
-    data = generate_random_data()
-if __name__ == "__main__":
-
-    main()
-        print(f"Random Number: {item}")
-def generate_random_data():
-
-
-import random
+    const data = [];
+    }
+    });
